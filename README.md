@@ -20,7 +20,7 @@ This was a group project, but I did the bulk of the writing (up to section 2.4.1
 
 ## Data Visualization
 
-### [Tableau - Exploratory Data Analysis on Online Dating](https://github.com/omsteadily/fractl/tree/master/w209Tableau.pdf)
+### [Tableau - Exploratory Data Analysis on Online Dating](https://github.com/omsteadily/fractl/tree/master/w209_Tableau.pdf)
 The goal for this assignment was to propose hypotheses on a dataset with minimal familiarity, then use Tableau iteratively to try and find support for the hypothesis.  The analysis is heavy on bar charts, but does show some interesting refinements in Tableau.
 
 ### [Pandas - BikeShare and Parking Ticket Analysis](https://github.com/omsteadily/fractl/tree/master/Pandas%20-%20BikeShare%20and%20Parking%20Ticket%20Analysis)
