@@ -6,11 +6,11 @@ Here are some samples of recent work that demonstrates proficiency in areas that
 
 Although most of my career has been spent writing, most of my professional writing is not available - the work I did as an analyst is non-public, and the writing I did for the theatre was long enough ago that it no longer exists on the website.  I've included some of the writing that I've done for school, although it may not be tonally appropriate for data journalism.
 
-### [Observational Trial Critique](https://github.com/omsteadily/fractl/w241Essay1.pdf)
+### [Observational Trial Critique](https://github.com/omsteadily/fractl/tree/master/w241Essay1.pdf)
 
 The assignment was to identify an observational trial with questionable assertions, and critique how causation may have been implied from correlational data.  I chose a trial on female sexuality with some rather startling conclusions.
 
-### [Field Experiment Pitch](https://github.com/omsteadily/fractl/w241Essay2.pdf)
+### [Field Experiment Pitch](https://github.com/omsteadily/fractl/tree/master/w241Essay2.pdf)
 
 Again for a class on statistical analysis and field experiments, this is a pitch for a project that could be done within the auspices of the course.  In keeping with my interest in language analysis and social networks, this is an experiment to determine whether Twitter's algorithm is optimized to induce outrage.
 
